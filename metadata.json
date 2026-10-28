@@ -1,0 +1,6 @@
+{
+  "name": "Janta Connect - जनता कनेक्ट",
+  "description": "Bilingual social media network for Android and web connecting communities in Hindi and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

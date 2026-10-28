@@ -1,0 +1,390 @@
+{
+  "users": [
+    {
+      "id": "usr_jantanews",
+      "name": "जनता लाइव न्यूज़ (Janta News)",
+      "username": "jantanews",
+      "email": "news@jantaconnect.in",
+      "phone": "+919876543210",
+      "passwordHash": "c594805b0b5eb27c01550929cea07a838f4eaedc3fa55613fc42a00bfe5e6378398d0f730c26f64dccf0bb2663deb48a1617152310e0fbdd88ccc3a58efc49ae",
+      "salt": "85ba9718b0d590edb34e321c581dd095",
+      "bio": "सच्ची और निष्पक्ष खबरें, सीधे जनता तक। Official news & community alerts across India.",
+      "avatar": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=150&auto=format&fit=crop&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&auto=format&fit=crop&q=80",
+      "location": "New Delhi / नई दिल्ली",
+      "website": "https://jantaconnect.in",
+      "preferredLanguage": "hi",
+      "joinedAt": "2026-01-10T10:00:00Z",
+      "verified": true,
+      "followers": [
+        "usr_vikram",
+        "usr_sunita",
+        "usr_aarav",
+        "usr_priya",
+        "usr_1793166200217_fpegi"
+      ],
+      "following": [
+        "usr_vikram",
+        "usr_sunita"
+      ]
+    },
+    {
+      "id": "usr_vikram",
+      "name": "Vikram Patil",
+      "username": "vikram_patil",
+      "email": "vikram@agritech.org",
+      "phone": "+919811122233",
+      "passwordHash": "f4b6a21da9b338f501c0d43e8a9c680747e459868e7e8fe71579d707e0ca8ed65e76e041c05a7295765446a7ad0d0e4db4c8a8f187f2fce9b1e6cf2836105dfb",
+      "salt": "099a74cd14387146dd0b5b2811318b99",
+      "bio": "Rural tech innovator | Building sustainable agritech for grassroots farmers 🌱🇮🇳",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&auto=format&fit=crop&q=80",
+      "location": "Pune / पुणे, Maharashtra",
+      "website": "https://krishitech.in",
+      "preferredLanguage": "en",
+      "joinedAt": "2026-01-15T12:00:00Z",
+      "verified": true,
+      "followers": [
+        "usr_jantanews",
+        "usr_aarav",
+        "usr_priya"
+      ],
+      "following": [
+        "usr_jantanews",
+        "usr_priya"
+      ]
+    },
+    {
+      "id": "usr_sunita",
+      "name": "डॉ. सुनीता पटेल (Dr. Sunita)",
+      "username": "dr_sunita",
+      "email": "sunita.patel@health.in",
+      "phone": "+919822233344",
+      "passwordHash": "f4d167340e8be7f8f825e983e3b8c14ff46719ccee9b96a35b6d4aaca02b636c36e97cc91307528f6442e98873a053418eb92c442b915e555117c4dc9a2ad2c5",
+      "salt": "715c0759a77eed1dced9966d46f7af82",
+      "bio": "सामुदायिक स्वास्थ्य विशेषज्ञ एवं सामाजिक कार्यकर्ता। Dedicated to rural healthcare & wellness for all.",
+      "avatar": "https://images.unsplash.com/photo-1594824813637-43c2295550a2?w=150&auto=format&fit=crop&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&auto=format&fit=crop&q=80",
+      "location": "Ahmedabad / अहमदाबाद",
+      "preferredLanguage": "hi",
+      "joinedAt": "2026-01-20T08:30:00Z",
+      "verified": true,
+      "followers": [
+        "usr_jantanews",
+        "usr_vikram"
+      ],
+      "following": [
+        "usr_jantanews",
+        "usr_vikram",
+        "usr_aarav"
+      ]
+    },
+    {
+      "id": "usr_aarav",
+      "name": "आरव शर्मा (Aarav Sharma)",
+      "username": "aarav_sharma",
+      "email": "aarav@creative.in",
+      "phone": "+919833344455",
+      "passwordHash": "ee9148b39caa97bae4aedbffe8af8ed0a6778ffd026fabd3d8f3e345d02ed6677a526c58c61b535c9e8dc79dcb51e5cc81a2229f3b1a705bdb44d35022c4ec9d",
+      "salt": "908c79c07267a6ef02cb56cb6a7ec594",
+      "bio": "Documenting the colors and spirit of India 📸 भारतीय संस्कृति और धरोहर की कहानियां।",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1519817650390-64a93db51149?w=800&auto=format&fit=crop&q=80",
+      "location": "Varanasi / वाराणसी, UP",
+      "preferredLanguage": "hi",
+      "joinedAt": "2026-02-01T14:15:00Z",
+      "verified": false,
+      "followers": [
+        "usr_jantanews",
+        "usr_sunita"
+      ],
+      "following": [
+        "usr_jantanews",
+        "usr_priya"
+      ]
+    },
+    {
+      "id": "usr_priya",
+      "name": "Priya Kushwaha",
+      "username": "priya_k",
+      "email": "priya@youthconnect.org",
+      "phone": "+919844455566",
+      "passwordHash": "08d37ad2c4088215f9200da1f685102d8a802a9c9466675debff726a41006a9230894128c065fdf7aa7176bb7259cf9ff795725b26d2371dc700bbb7a1716b0a",
+      "salt": "c7a4ab547bb7fa1fb2b0c57878de23cc",
+      "bio": "Youth development advocate & digital educator. Bridging the rural-urban education divide. 📚🇮🇳",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=800&auto=format&fit=crop&q=80",
+      "location": "Lucknow / लखनऊ",
+      "website": "https://youthindia.org",
+      "preferredLanguage": "en",
+      "joinedAt": "2026-02-05T09:00:00Z",
+      "verified": true,
+      "followers": [
+        "usr_jantanews",
+        "usr_vikram",
+        "usr_aarav"
+      ],
+      "following": [
+        "usr_jantanews",
+        "usr_vikram"
+      ]
+    },
+    {
+      "id": "usr_1793166200217_fpegi",
+      "name": "अमित वर्मा",
+      "username": "amit_verma",
+      "email": "amit@test.in",
+      "passwordHash": "f28f46decd0b84ab8052a6d46eff7594f540bf41f84cf6e83115e23c43c1353023f28d17117def25cb58af938d5b9c4e7c23fdb1fdc2900e3762eafb0d3ac9fa",
+      "salt": "a0baa49f57d2da282d1216a2f8e44c67",
+      "bio": "नमस्ते! मैं जनता कनेक्ट पर नया हूँ।",
+      "avatar": "https://images.unsplash.com/photo-1535713875811?w=150&auto=format&fit=crop&q=80",
+      "preferredLanguage": "hi",
+      "joinedAt": "2026-10-28T05:43:20.217Z",
+      "verified": false,
+      "followers": [],
+      "following": [
+        "usr_jantanews"
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": "post_1793166204330_x7hu",
+      "authorId": "usr_1793166200217_fpegi",
+      "content": "जनता कनेक्ट से जुड़कर बहुत गर्व का अनुभव हो रहा है! #DigitalIndia #JantaConnect",
+      "language": "hi",
+      "location": "जयपुर, राजस्थान",
+      "tags": [
+        "DigitalIndia",
+        "JantaConnect"
+      ],
+      "likes": [],
+      "commentCount": 0,
+      "sharesCount": 0,
+      "createdAt": "2026-10-28T05:43:24.330Z"
+    },
+    {
+      "id": "post_1",
+      "authorId": "usr_vikram",
+      "content": "डिजिटल भारत अब सिर्फ बड़े शहरों तक सीमित नहीं है। हमारे गाँव के किसान अब मौसम का पूर्वानुमान और मंडी के ताज़ा भाव सीधे अपने मोबाइल पर देख रहे हैं। यह आत्मनिर्भर भारत की सच्ची तस्वीर है! 🌾🇮🇳\n\nDigital India is truly empowering rural farmers with real-time crop pricing and weather alerts.",
+      "language": "hi",
+      "translatedContent": {
+        "en": "Digital India is no longer limited to big cities. Farmers in our villages are now tracking weather forecasts and market prices directly on their mobile phones. This is the true picture of self-reliant India! 🌾🇮🇳",
+        "hi": "डिजिटल भारत अब सिर्फ बड़े शहरों तक सीमित नहीं है। हमारे गाँव के किसान अब मौसम का पूर्वानुमान और मंडी के ताज़ा भाव सीधे अपने मोबाइल पर देख रहे हैं।"
+      },
+      "image": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?w=800&auto=format&fit=crop&q=80",
+      "location": "Nashik, Maharashtra / नासिक",
+      "tags": [
+        "DigitalIndia",
+        "किसान_कल्याण",
+        "VocalForLocal",
+        "AgriTech"
+      ],
+      "likes": [
+        "usr_jantanews",
+        "usr_sunita",
+        "usr_aarav",
+        "usr_priya"
+      ],
+      "commentCount": 3,
+      "sharesCount": 12,
+      "createdAt": "2026-10-27T18:30:00Z"
+    },
+    {
+      "id": "post_2",
+      "authorId": "usr_jantanews",
+      "content": "नमस्ते दोस्तों! जनता कनेक्ट (Janta Connect) पर आप सभी का हार्दिक स्वागत है। 💙\n\nअपनी आवाज़, अपने विचार और अपनी मातृभाषा में निर्भीक होकर जुड़ने का एक नया आधुनिक मंच। देश के हर कोने से अपनी संस्कृति और मुद्दों को यहाँ साझा करें। आप किस शहर या गाँव से जुड़े हैं? नीचे कमेंट करें!",
+      "language": "hi",
+      "translatedContent": {
+        "en": "Hello friends! A warm welcome to all of you on Janta Connect. 💙 A clean, modern platform to connect and share your voice in your mother tongue without hesitation. Which city or village are you joining from? Tell us in the comments!",
+        "hi": "नमस्ते दोस्तों! जनता कनेक्ट (Janta Connect) पर आप सभी का हार्दिक स्वागत है। 💙"
+      },
+      "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&auto=format&fit=crop&q=80",
+      "location": "New Delhi / नई दिल्ली",
+      "tags": [
+        "JantaConnect",
+        "जनता_कनेक्ट",
+        "Bharat",
+        "Welcome"
+      ],
+      "likes": [
+        "usr_vikram",
+        "usr_aarav",
+        "usr_priya"
+      ],
+      "commentCount": 5,
+      "sharesCount": 28,
+      "createdAt": "2026-10-27T16:00:00Z"
+    },
+    {
+      "id": "post_3",
+      "authorId": "usr_priya",
+      "content": "Thrilled to announce that our community digital learning center in Lucknow just reached 500 active students this month! Providing high-speed internet, bilingual coding modules in Hindi & English, and STEM kits to underprivileged girls. Education changes everything. ✨📚",
+      "language": "en",
+      "translatedContent": {
+        "hi": "यह साझा करते हुए अत्यंत गर्व हो रहा है कि लखनऊ में हमारे सामुदायिक डिजिटल लर्निंग सेंटर में इस महीने 500 से अधिक छात्राएं जुड़ीं! हिंदी और अंग्रेजी में कोडिंग और स्टेम शिक्षा का प्रसार। शिक्षा से ही समाज बदलता है। ✨📚",
+        "en": "Thrilled to announce that our community digital learning center in Lucknow just reached 500 active students this month!"
+      },
+      "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&auto=format&fit=crop&q=80",
+      "location": "Lucknow, Uttar Pradesh",
+      "tags": [
+        "EducationForAll",
+        "WomenInTech",
+        "DigitalIndia",
+        "YouthPower"
+      ],
+      "likes": [
+        "usr_vikram",
+        "usr_sunita",
+        "usr_jantanews"
+      ],
+      "commentCount": 2,
+      "sharesCount": 9,
+      "createdAt": "2026-10-27T14:15:00Z"
+    },
+    {
+      "id": "post_4",
+      "authorId": "usr_aarav",
+      "content": "आज सुबह अस्सी घाट, वाराणसी का शांत और दिव्य दृश्य। गंगा आरती के बाद की यह शांति मन को एक अनूठी ऊर्जा देती है। हमारी विरासत ही हमारी सबसे बड़ी शक्ति है। 🌅🪔\n\nMorning bliss at Assi Ghat, Varanasi.",
+      "language": "hi",
+      "translatedContent": {
+        "en": "Serene morning atmosphere at Assi Ghat, Varanasi. The tranquil air after the dawn chants fills the soul with timeless peace. Our heritage is our greatest treasure. 🌅🪔",
+        "hi": "आज सुबह अस्सी घाट, वाराणसी का शांत और दिव्य दृश्य। गंगा आरती के बाद की यह शांति मन को एक अनूठी ऊर्जा देती है।"
+      },
+      "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?w=800&auto=format&fit=crop&q=80",
+      "location": "Varanasi Ghats, Uttar Pradesh",
+      "tags": [
+        "Varanasi",
+        "IncredibleIndia",
+        "काशी",
+        "Heritage"
+      ],
+      "likes": [
+        "usr_priya",
+        "usr_jantanews",
+        "usr_vikram"
+      ],
+      "commentCount": 1,
+      "sharesCount": 15,
+      "createdAt": "2026-10-27T11:00:00Z"
+    },
+    {
+      "id": "post_5",
+      "authorId": "usr_sunita",
+      "content": "मौसमी बदलाव के दौरान स्वच्छता और संतुलित आहार का विशेष ध्यान रखें। स्थानीय फल जैसे आंवला, पपीता और गर्म पानी का सेवन इम्युनिटी को मजबूत बनाता है। गाँव में स्वास्थ्य शिविर आज शाम 4 बजे। 🩺🥦\n\nPublic health tip: Boost natural immunity with seasonal fruits and clean boiled drinking water during season shifts.",
+      "language": "hi",
+      "translatedContent": {
+        "en": "Take special care of hygiene and balanced nutrition during seasonal transitions. Local fruits like amla, papaya and warm boiled water reinforce natural immunity. Free community health camp today at 4 PM. 🩺🥦",
+        "hi": "मौसमी बदलाव के दौरान स्वच्छता और संतुलित आहार का विशेष ध्यान रखें।"
+      },
+      "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=800&auto=format&fit=crop&q=80",
+      "location": "Ahmedabad / अहमदाबाद, Gujarat",
+      "tags": [
+        "HealthTips",
+        "स्वास्थ्य_सलाह",
+        "SwachhBharat",
+        "Wellness"
+      ],
+      "likes": [
+        "usr_vikram",
+        "usr_priya"
+      ],
+      "commentCount": 1,
+      "sharesCount": 6,
+      "createdAt": "2026-10-27T09:45:00Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "comm_1",
+      "postId": "post_1",
+      "authorId": "usr_sunita",
+      "content": "बहुत ही सराहनीय प्रयास विक्रम जी! तकनीक का सही उपयोग गाँव के विकास में ही है।",
+      "createdAt": "2026-10-27T18:45:00Z",
+      "likes": [
+        "usr_vikram"
+      ]
+    },
+    {
+      "id": "comm_2",
+      "postId": "post_1",
+      "authorId": "usr_priya",
+      "content": "Spot on! Real-time agri data is game-changing for rural families.",
+      "createdAt": "2026-10-27T19:10:00Z",
+      "likes": []
+    },
+    {
+      "id": "comm_3",
+      "postId": "post_2",
+      "authorId": "usr_vikram",
+      "content": "पुणे, महाराष्ट्र से जुड़कर बेहद खुशी हुई! Janta Connect का ब्लू और व्हाइट लुक बहुत साफ और शानदार है। 👏",
+      "createdAt": "2026-10-27T16:20:00Z",
+      "likes": [
+        "usr_jantanews"
+      ]
+    },
+    {
+      "id": "comm_4",
+      "postId": "post_2",
+      "authorId": "usr_aarav",
+      "content": "वाराणसी की पवित्र नगरी से सादर प्रणाम! Congratulations on this wonderful bilingual app.",
+      "createdAt": "2026-10-27T16:45:00Z",
+      "likes": [
+        "usr_jantanews"
+      ]
+    },
+    {
+      "id": "comm_5",
+      "postId": "post_3",
+      "authorId": "usr_vikram",
+      "content": "Incredible initiative Priya! Let us know if you need any hardware or internet connectivity support.",
+      "createdAt": "2026-10-27T14:35:00Z",
+      "likes": [
+        "usr_priya"
+      ]
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_1",
+      "userId": "usr_vikram",
+      "actorId": "usr_sunita",
+      "type": "like",
+      "postId": "post_1",
+      "read": false,
+      "createdAt": "2026-10-27T18:40:00Z"
+    },
+    {
+      "id": "notif_2",
+      "userId": "usr_vikram",
+      "actorId": "usr_priya",
+      "type": "comment",
+      "postId": "post_1",
+      "content": "Spot on! Real-time agri data is game-changing for rural families.",
+      "read": false,
+      "createdAt": "2026-10-27T19:10:00Z"
+    },
+    {
+      "id": "notif_3",
+      "userId": "usr_vikram",
+      "actorId": "usr_aarav",
+      "type": "follow",
+      "read": true,
+      "createdAt": "2026-10-27T15:00:00Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "1f8db613120b88de6530400ba81557622c78769eb1571956a2d0bbaaf15a922f",
+      "userId": "usr_1793166200217_fpegi",
+      "createdAt": "2026-10-28T05:43:20.218Z"
+    }
+  ],
+  "otpRequests": [
+    {
+      "phone": "+919876543210",
+      "code": "123456",
+      "expiresAt": 1793202188686
+    }
+  ]
+}
